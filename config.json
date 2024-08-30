@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+mysqlconnector://root:@localhost:3307/codingthunder",
+    "prod_uri" : "mysql+mysqlconnector://root:@localhost:3307/codingthunder",
+    "fb_url" : "https://www.facebook.com/Neha Gupta",
+    "tw_url" : "https://x.com/Tisha872873",
+    "gh_url" : "https://github.com/Tisha-Coding",
+    "blog_name" : "TechVerse Hub",
+    "tag_line" : "Share, Create, and Collaborate on the Latest in Tech",
+    "gmail-user": "nehag6021@gmail.com",
+    "gmail-password": "bsgw lnuz kito pasn",
+    "no_of_posts": 10,
+    "admin_user": "Tisha",
+    "admin_password": "hi",
+    "upload_location": "C:\\Users\\Tishu\\PycharmProjects\\Flask-tut\\pythonProject\\static"
+  }
+}
